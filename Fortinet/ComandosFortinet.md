@@ -20,7 +20,7 @@
     </p>
     <small>Apoyame para seguir compartiendo material educacional</small> <br /> 
     <a href="https://www.paypal.com/donate/?hosted_button_id=FXLEYP4FXC5B2" target="_blank">
-    <img src="IMG_otros/paypal.png" alt="Donar con Paypal" height="35px" width="150px" >
+    <img src="../IMG_otros/paypal.png" alt="Donar con Paypal" height="35px" width="150px" >
     </a>
 </div>
 
